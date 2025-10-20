@@ -48,3 +48,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
+# openlist
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES openlist luci-app-openlist luci-i18n-openlist-zh-cn"
